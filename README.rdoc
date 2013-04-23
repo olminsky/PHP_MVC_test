@@ -1,0 +1,5 @@
+== PHP5 usando el modelo MVC
+
+Es una prueba para armar el esqueleto de una aplicación que use el modelo MVC en PHP5
+
+Derechos reservados, reproducción sin fines de lucro permitida.
